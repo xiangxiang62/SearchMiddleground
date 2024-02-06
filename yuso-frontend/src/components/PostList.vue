@@ -11,7 +11,7 @@ const props = withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <a-list item-layout="horizontal" :data-source="postList">
+  <a-list item-layout="horizontal" :data-source="props.postList">
     <template #renderItem="{ item }">
       <a-list-item>
         <a-list-item-meta :description="item.content">

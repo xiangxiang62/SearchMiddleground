@@ -1,15 +1,31 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { withDefaults, defineProps } from "vue";
+
+interface Props {
+  pictureList: any[];
+}
+
+const props = withDefaults(defineProps<Props>(), {
+  pictureList: () => [],
+});
+</script>
 
 <template>
-  图片列表
-  <img
-    class="meizi"
-    src="https://img2.baidu.com/it/u=3385181023,3772644235&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
-  />
+  <a-list
+    item-layout="horizontal"
+    :grid="{ gutter: 16, xs: 1, sm: 2, md: 4, lg: 4, xl: 6, xxl: 3 }"
+    :data-source="props.pictureList"
+  >
+    <template #renderItem="{ item }">
+      <a-list-item>
+        <a-card hoverable>
+          <template #cover>
+            <img alt="example" :src="item.url" />
+          </template>
+          <a-card-meta :title="item.title" />
+        </a-card>
+      </a-list-item>
+    </template>
+  </a-list>
 </template>
-
-<style scoped>
-.meizi {
-  width: 100px;
-}
-</style>
+<style scoped></style>
