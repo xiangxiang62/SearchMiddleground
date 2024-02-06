@@ -1,0 +1,995 @@
+{
+  "code": 0,
+  "msg": null,
+  "data": {
+    "tookTime": 0.105,
+    "total": 10000,
+    "actualTotal": 84728,
+    "offset": 0,
+    "limit": 20,
+    "dataList": [
+      {
+        "bibId": "m6fb39b8b350c213a40e49d7ec673b0c2",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "(美)哈珀·李著",
+        "callno": [
+          "I712.45/1980"
+        ],
+        "docType": "doc.01",
+        "groupId": "722b9a03e76abc96604968ac4ceff370",
+        "isbn": "978-7-5447-6650-0",
+        "bibNo": "0000552887",
+        "abstract": [],
+        "docTypeDesc": "中文图书",
+        "title": "杀死一只知更鸟",
+        "itemCount": 15,
+        "tags": [
+          "book"
+        ],
+        "circCount": 4,
+        "pub_year": "2017.2",
+        "classno": "I712.45",
+        "publisher": "译林出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007559\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1056619,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-13\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007560\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056620,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-02-10\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007561\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056621,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-02-10\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-13\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007562\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056622,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007563\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1056623,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-13\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007564\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056624,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2023-12-29\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007565\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056625,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2023-12-29\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007566\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1056626,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007567\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1056627,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-13\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007568\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056628,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-25\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007569\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056629,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-25\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-22\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007570\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056630,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-22\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-15\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007571\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056631,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-15\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-13\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007572\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056632,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I712.45/1980\",\"dueDate\":\"2024-03-13\",\"inDate\":1684908224000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1007573\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1056633,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}]",
+        "_id": "357300",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m47cdd6be8062259e142a127ab0d28da5",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "路遥著",
+        "callno": [
+          "I247.57/2554=2/(1)"
+        ],
+        "docType": "doc.01",
+        "groupId": "d929ffe02a742349073d31b143992d69",
+        "isbn": "978-7-5302-1200-4",
+        "bibNo": "0000216339",
+        "abstract": "一九七五年二三月间，一个平平常常的日子，细濛濛的雨丝夹着一星半点的雪花，正纷纷淋淋地向大地飘洒着……",
+        "docTypeDesc": "中文图书",
+        "title": "平凡的世界:第一部",
+        "itemCount": 11,
+        "tags": [
+          "book"
+        ],
+        "circCount": 6,
+        "pub_year": "2012.3",
+        "classno": "I247.57",
+        "publisher": "北京十月文艺出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"dueDate\":\"2024-03-13\",\"inDate\":1493049600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0584740\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":1,\"itemId\":642106,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"dueDate\":\"2024-03-13\",\"inDate\":1493049600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0584741\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":1,\"itemId\":642112,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"inDate\":1493049600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0584742\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":642116,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"inDate\":1493049600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0584743\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":642122,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"inDate\":1493049600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0584744\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":642127,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"dueDate\":\"2024-03-13\",\"inDate\":1493049600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0484211\",\"tempLocation\":\"总馆 - 德雅书房\",\"circStatus\":1,\"itemId\":642101,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"德雅书房\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"inDate\":1429459200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0484207\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":642081,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"inDate\":1429459200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0484208\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":642087,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"dueDate\":\"2024-03-13\",\"inDate\":1429459200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0484210\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":642096,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"dueDate\":\"2024-03-13\",\"inDate\":1350835200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0349768\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":1,\"itemId\":642069,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"I247.57/2554=2/(1)\",\"inDate\":1350835200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0349769\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":642075,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "212592",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "ma5fde9a29f8a50e40a04a880dee46f88",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "张天德，孙钦福主编",
+        "callno": [
+          "O13-44/382/(1)"
+        ],
+        "docType": "doc.01",
+        "groupId": "97373ddf4a49a62c7e6d561b06d76720",
+        "isbn": "978-7-04-057724-2",
+        "bibNo": "0000549245",
+        "abstract": "本书共分三章，分别为：函数、极限与连续，一元函数微分学，一元函数积分学，共约800道习题及参考解答，其中有340余道考研真题及60余道数学竞赛真题。",
+        "docTypeDesc": "中文图书",
+        "title": "高等数学精选精解1600题:知识点视频版.上册",
+        "itemCount": 20,
+        "tags": [
+          "book"
+        ],
+        "circCount": 18,
+        "pub_year": "2022.10",
+        "classno": "O13-44",
+        "publisher": "高等教育出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021180\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071986,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021181\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1071987,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021182\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1071988,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"dueDate\":\"2023-12-23\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021183\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":1,\"itemId\":1071989,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2023-12-23\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021184\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071990,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021185\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071991,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021186\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1071992,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021187\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1071993,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021188\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071994,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021189\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071995,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021190\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071996,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021191\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071997,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021192\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1071998,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021193\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1071999,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"dueDate\":\"2024-03-13\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021194\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1072000,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021195\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1072001,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021196\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1072002,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021197\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1072003,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021198\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1072004,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"O13-44/382/(1)\",\"inDate\":1686377264000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1021199\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1072005,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "353657",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m8feccc591e8e34ef29876d49ae361516",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "(日) 山本宪明著",
+        "callno": [
+          "C935/129"
+        ],
+        "docType": "doc.01",
+        "groupId": "3c238264242de4e97d001b98bd8fe495",
+        "isbn": "978-7-5226-0240-0",
+        "bibNo": "0000530940",
+        "abstract": "本书分为“精简物品”“精简选择”“精简人脉”等48个精简之道, 由浅入深, 层层挖掘出人们日常工作、生活中所有潜在的时间浪费, 总结了所有应该摒弃的习惯和思维, 并翔实生动地介绍了如何重塑高效的做事思维以及如何改进使用时间的方式等。书中48个高效做事的法则, 能有效地帮助读者利用有限的时间去获取更高的成就, 帮助读者终结低效努力, 让效率爆发式增长。",
+        "docTypeDesc": "中文图书",
+        "title": "高效是精简出来的:如何用20%的时间完成100%的事",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 1,
+        "pub_year": "2022.1",
+        "classno": "C935",
+        "publisher": "中国水利水电出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"C935/129\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970963\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1014351,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C935/129\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970964\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1014352,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C935/129\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970965\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1014353,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C935/129\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970966\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1014354,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"C935/129\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970967\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1014355,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}]",
+        "_id": "337736",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "mb21de049b2d1442097b1c120f621ac1f",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "(日)内田树,石川康宏著",
+        "callno": [
+          "A811/25"
+        ],
+        "docType": "doc.01",
+        "groupId": "5017140c58ad8ff87b48767445638acc",
+        "isbn": "978-7-5207-2883-6",
+        "bibNo": "0000551334",
+        "abstract": "在世界各国出版物中,阐释和解读马克思著作的各种读物可谓浩如烟海,但大多晦涩难懂,以至于很多年轻读者往往“谈马色变”,敬而远之。日本著名学者内田树与石川康宏以书信对话的形式,从不同的角度对马克思的经典著作及著名理论阐述了各自的理解和看法。两位学者文风不同,对同一问题具有不同的态度及视角,书信对话这一创新形式,拉近了读者与马克思的距离,增强了本书的可读性和趣味性。",
+        "docTypeDesc": "中文图书",
+        "title": "青年们,读马克思吧!:一位20多岁青年人的探索与热情",
+        "itemCount": 6,
+        "tags": [
+          "book"
+        ],
+        "circCount": 3,
+        "pub_year": "2022.6",
+        "classno": "A811",
+        "publisher": "东方出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"A811/25\",\"dueDate\":\"2024-03-13\",\"inDate\":1686896511000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1029887\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":1,\"itemId\":1080715,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"A811/25\",\"dueDate\":\"2024-03-13\",\"inDate\":1686896511000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1029888\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":1,\"itemId\":1080716,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"A811/25\",\"dueDate\":\"2024-03-13\",\"inDate\":1686896511000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1029889\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1080717,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"A811/25\",\"inDate\":1686896511000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1029890\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1080718,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"A811/25\",\"inDate\":1686896511000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1029891\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1080719,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"A811/25\",\"inDate\":1686896511000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1029886\",\"tempLocation\":\"总馆 - 德雅书房\",\"circStatus\":0,\"itemId\":1080714,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"德雅书房\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "355746",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "maff825ac4f6d6d5a520389fb860ba903",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "黄桑编绘",
+        "callno": [
+          "K209/225/(1)"
+        ],
+        "docType": "doc.01",
+        "groupId": "28ddbc32-1126-4af2-bf95-f5aee45d67ff",
+        "isbn": "978-7-5593-4967-5",
+        "bibNo": "0000497416",
+        "abstract": "本书内容包括: 古人吃什么、古代饮食常识、古代美食达人、爱美的古人、古人这么活、古人这么交流等。",
+        "docTypeDesc": "中文图书",
+        "title": "古人比你更会玩:1",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 4,
+        "pub_year": "2020.1",
+        "classno": "K209",
+        "publisher": "黑龙江美术出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"K209/225/(1)\",\"dueDate\":\"2024-03-13\",\"inDate\":1660579200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0885155\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":1,\"itemId\":291867,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"K209/225/(1)\",\"inDate\":1660579200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0885156\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":291873,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"K209/225/(1)\",\"inDate\":1660579200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0885157\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":291878,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"K209/225/(1)\",\"inDate\":1660579200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0885158\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":291884,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"K209/225/(1)\",\"inDate\":1660579200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0885159\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":291890,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "93395",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "mcd5d39ffbf659419b00891ff69c1a15f",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "习近平著",
+        "callno": [
+          "D220/20"
+        ],
+        "docType": "doc.01",
+        "groupId": "85500bb45fb9731cd62e6d4b580028f0",
+        "isbn": "978-7-01-025149-3",
+        "bibNo": "0000541817",
+        "abstract": "本书内容包括：过去五年的工作和新时代十年的伟大变革；开辟马克思主义中国化时代化新境界；新时代新征程中国共产党的使命任务；加快构建新发展格局，着力推动高质量发展；实施科教兴国战略，强化现代化建设人才支撑等。",
+        "docTypeDesc": "中文图书",
+        "title": "高举中国特色社会主义伟大旗帜为全面建设社会主义现代化国家而团结奋斗:在中国共产党第二十次全国代表大会上的报告(2022年10月16日)",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 0,
+        "pub_year": "2022.10",
+        "classno": "D220",
+        "publisher": "人民出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"D220/20\",\"dueDate\":\"2024-03-13\",\"inDate\":1681529921000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0990683\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1039088,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"D220/20\",\"dueDate\":\"2024-01-05\",\"inDate\":1681529921000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0990684\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":1,\"itemId\":1039089,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-01-05\"}, {\"classMethod\":\"clc\",\"callNo\":\"D220/20\",\"dueDate\":\"2024-03-13\",\"inDate\":1681529921000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0990685\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1039090,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"D220/20\",\"dueDate\":\"2024-03-25\",\"inDate\":1681529921000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0990686\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1039091,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-25\"}, {\"classMethod\":\"clc\",\"callNo\":\"D220/20\",\"dueDate\":\"2024-03-13\",\"inDate\":1681529921000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0990687\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1039092,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}]",
+        "_id": "346224",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "mba960686ace6cab7e65fa4c1801556ee",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "南方电网能源发展研究院有限责任公司，南方电网澜湄国家能源电力合作研究中心编著",
+        "callno": [
+          "F279.1/204"
+        ],
+        "docType": "doc.01",
+        "groupId": "786e2442-ce89-4226-8547-f2d6d6f0bf44",
+        "isbn": "978-7-5198-6233-6",
+        "bibNo": "0000530630",
+        "abstract": "本书通过持续跟踪全球创新动态，洞察全球领先企业创新发展趋势，从技术创新、商业模式创新、管理创新等维度研究领先企业创新管理先进经验，同时深入分析中国企业创新发展挑战和方向，聚焦创新领域关键问题，研究提出国有企业创新发展路径选择。",
+        "docTypeDesc": "中文图书",
+        "title": "全球领先企业创新发展报告:2021年",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 1,
+        "pub_year": "2021.3",
+        "classno": "F279.1",
+        "publisher": "中国电力出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"F279.1/204\",\"dueDate\":\"2024-03-13\",\"inDate\":1664035200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0959650\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1013114,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"F279.1/204\",\"dueDate\":\"2024-03-13\",\"inDate\":1664035200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0959651\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1013115,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"F279.1/204\",\"dueDate\":\"2024-03-03\",\"inDate\":1664035200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0959652\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":1,\"itemId\":1013116,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-03\"}, {\"classMethod\":\"clc\",\"callNo\":\"F279.1/204\",\"dueDate\":\"2024-03-13\",\"inDate\":1664035200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0959653\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1013117,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"F279.1/204\",\"inDate\":1664035200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0959654\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1013118,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "337427",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "mfafe460acf42243222fdcb52f2f613d1",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "萧红著",
+        "callno": [
+          "I266.1/587"
+        ],
+        "docType": "doc.01",
+        "groupId": "781f10214db37f066e35ace0d4054c57",
+        "isbn": "978-7-5699-3666-7",
+        "bibNo": "0000524148",
+        "abstract": "本书内容包括: 小黑狗 ; 欧罗巴旅馆 ; 雪天 ; 他的追求职业 ; 家庭教师 ; 飞雪 ; 他的上唇挂霜了 ; 当铺 ; 广告员的梦想 ; 同命运的小鱼 ; 几个欢快的日子 ; 公园等。",
+        "docTypeDesc": "中文图书",
+        "title": "爱自己, 一切都是自由的",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 5,
+        "pub_year": "2021.6",
+        "classno": "I266.1",
+        "publisher": "北京时代华文书局",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"I266.1/587\",\"inDate\":1664121600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0960455\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":961122,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I266.1/587\",\"inDate\":1664121600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0960456\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":961125,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I266.1/587\",\"inDate\":1664121600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0960457\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":961129,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I266.1/587\",\"inDate\":1664121600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0960458\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":961133,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I266.1/587\",\"inDate\":1664121600000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0960459\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":961137,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "322975",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m6bc2c50a9a82d7057c102a05cc753a23",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "月如钩著",
+        "callno": [
+          "K825.6/998"
+        ],
+        "docType": "doc.01",
+        "groupId": "cba34b6efc12023af8d8f7e5a42401b9",
+        "isbn": "978-7-5680-5773-8",
+        "bibNo": "0000526730",
+        "abstract": "本书以严谨不失风趣的文字分两部分对苏东坡的生平进行了深入细致的剖析, 上部分讲述了年少轻狂的苏东坡, 一路顺畅、文章虽引经据典, 才华横溢, 满是一位书生涉世不生的理想主义。下部分讲“乌台诗案”后的苏东坡对人生意义的思考和探索。在被贬谪三州的过程中, 苏东坡完善了自己的人格, 实现了理想的自我。他收敛了身上桀骜不驯的傲气, 珍养稳健平和的正气; 在基层民众的交往中, 他去除了纠缠恩怨的意气, 蓄养虚怀若谷的大气; 在躬耕东坡的劳动中, 他蜕掉了多愁善感, 表现出刚毅坚强的大丈夫气概; 在纵情山水的天真中, 他超越了人类时空的局限, 养聚天地宇宙一体的浩然气。他以顺其自然、坦然面对的生死观, 实现了人格魅力不朽的精神气。",
+        "docTypeDesc": "中文图书",
+        "title": "苏东坡传:一蓑烟雨任平生",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 4,
+        "pub_year": "2021.9",
+        "classno": "K825.6",
+        "publisher": "华中科技大学出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"K825.6/998\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0897130\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":987549,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"K825.6/998\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0897131\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":987551,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"K825.6/998\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0897132\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":987553,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"K825.6/998\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0897133\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":987555,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"K825.6/998\",\"dueDate\":\"2024-03-15\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0897134\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":987557,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-15\"}]",
+        "_id": "329881",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m34a88795c7bb29953adbba5f0fcfe74f",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "(英)大卫·曼斯菲尔德(David Mansfield)著",
+        "callno": [
+          "B026/108"
+        ],
+        "docType": "doc.01",
+        "groupId": "7ff426105a48411ceac56e8942144310",
+        "isbn": "978-7-5046-9460-7",
+        "bibNo": "0000552455",
+        "abstract": "在本书中，作者提倡进行“周一革命”，其中的“革命”指转换自己的思维，摆脱对工作的厌倦与反感，用积极的心态和高效的方法解决看似棘手的问题。作者在书中分享了25类具体的工作中较难处理的问题，提供了实用的解决方法，并将这些问题分为了人员、数据、销售、组织、发展五个板块，从不同的角度讲解如何转换思维，巧妙化解工作中的难题。",
+        "docTypeDesc": "中文图书",
+        "title": "周一革命:职场人摆脱周日焦虑症",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 5,
+        "pub_year": "2022.8",
+        "classno": "B026",
+        "publisher": "中国科学技术出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"B026/108\",\"inDate\":1686726670000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1026261\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1077074,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B026/108\",\"inDate\":1686726670000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1026262\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1077075,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B026/108\",\"inDate\":1686726670000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1026263\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1077076,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B026/108\",\"inDate\":1686726670000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1026264\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1077077,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B026/108\",\"inDate\":1686726670000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1026265\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1077078,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "356867",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m563d812b08dada34f220d32b659fb182",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "汪洋, 余安著",
+        "callno": [
+          "C912.1/1274"
+        ],
+        "docType": "doc.01",
+        "groupId": "26ae2534913cefe6c82887a9b4dfae4a",
+        "isbn": "978-7-121-43513-3",
+        "bibNo": "0000538009",
+        "abstract": "本书阐述了在职场沟通中我们难免遇到一些尴尬情况, 看似问题浮于言语, 其实本质源于心理。作者认为口从于心, 脱离了心理分析去讲沟通技巧, 无异于”无本之木”。先识人, 后沟通。本书基于美国斯坦福大学热门的MBA心理学课程“九型人格”, 结合作者在十几年工作中的沟通实践案例编写而成。故事有趣, 理论简明, 图表直观, 聚焦工作识人与沟通。通过重现办公室真实情境, 以理论知识点结合人物对话和模拟实战的形式解构职场社交技巧。",
+        "docTypeDesc": "中文图书",
+        "title": "能识人, 会说话:一本书搞定职场社交",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 0,
+        "pub_year": "2022.5",
+        "classno": "C912.1",
+        "publisher": "电子工业出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"C912.1/1274\",\"dueDate\":\"2024-03-13\",\"inDate\":1669132800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0981015\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":1,\"itemId\":1030415,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C912.1/1274\",\"dueDate\":\"2023-12-13\",\"inDate\":1669132800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0981016\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1030416,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2023-12-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C912.1/1274\",\"dueDate\":\"2024-03-16\",\"inDate\":1669132800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0981017\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1030417,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-16\"}, {\"classMethod\":\"clc\",\"callNo\":\"C912.1/1274\",\"dueDate\":\"2024-03-13\",\"inDate\":1669132800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0981018\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1030418,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C912.1/1274\",\"dueDate\":\"2024-03-17\",\"inDate\":1669132800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0981019\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1030419,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-17\"}]",
+        "_id": "342751",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m0ae23b5873c5f712358cc854aa0a6a88",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "(日) 黑坂达也著",
+        "callno": [
+          "F/14"
+        ],
+        "docType": "doc.01",
+        "groupId": "860d7ed7020c76e3fe34c1d46ab5e6c5",
+        "isbn": "978-7-5139-3731-3",
+        "bibNo": "0000529261",
+        "abstract": "本书由5G带来的真正冲击、按“普及时间线”解读商业拓展的最佳时期、各领域内“5G×新事业”的潜力股、能让5G事业成功的商业拓展诀窍几部分组成, 具体内容包括: 5G的本质并非只是超高速通信; 5G和4G虽相似却不同; 商业拓展比4G时代更加困难; 商业企划的关键; “窗口”会消失, 服务会改变; 从用户的固有观念开始改变; 5G市场的头号种子不是智能手机; 预想未来: 5G关乎人的生死; 分析讲解等。",
+        "docTypeDesc": "中文图书",
+        "title": "时代的下一轮红利, 你能抓住吗?",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 4,
+        "pub_year": "2022.1",
+        "classno": "F",
+        "publisher": "民主与建设出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"F/14\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0896137\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1007377,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"F/14\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0896138\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1007378,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"F/14\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0896139\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1007379,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"F/14\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0896140\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1007380,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"F/14\",\"dueDate\":\"2024-03-15\",\"inDate\":1661788800000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0896141\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1007381,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-15\"}]",
+        "_id": "336087",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "maa57b9bdedc886f56a9af3f5efde38d6",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "武志红著",
+        "callno": [
+          "B84/461/(3)"
+        ],
+        "docType": "doc.01",
+        "groupId": "0515308cc552048fa6584cc9d815bcd3",
+        "isbn": "978-7-5057-5085-2",
+        "bibNo": "0000435590",
+        "abstract": "一个人会在一生中不断遭遇各种挑战，甚至颠覆，因此可能迷失。我也是个迷路的人，通过思考、体验、分享，让自己的心灵不断得到淬炼。《和另一个自己谈谈心》是我作为一个经历千山万水，仍然在路上的体验者和思考者的真诚分享。希望它能帮助你自我观察、自我觉知，更好地成为自己，更好地抵达真实。",
+        "docTypeDesc": "中文图书",
+        "title": "和另一个自己谈谈心:自恋",
+        "itemCount": 3,
+        "tags": [
+          "book"
+        ],
+        "circCount": 0,
+        "pub_year": "2021.1",
+        "classno": "B84",
+        "publisher": "中国友谊出版公司",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"B84/461/(3)\",\"dueDate\":\"2024-03-13\",\"inDate\":1631462400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0728058\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":1,\"itemId\":551376,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"B84/461/(3)\",\"dueDate\":\"2024-03-13\",\"inDate\":1631462400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0728059\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":551381,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"B84/461/(3)\",\"dueDate\":\"2024-03-13\",\"inDate\":1631462400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0728060\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":551385,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}]",
+        "_id": "183094",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m09b53090276443113573656fe57ed5ca",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "吾影视觉著",
+        "callno": [
+          "J41/359"
+        ],
+        "docType": "doc.01",
+        "groupId": "5457bd39-1b1d-4dfb-9a0a-c6b654d98b7c",
+        "isbn": "978-7-115-59486-0",
+        "bibNo": "0000549779",
+        "abstract": "本书共七章，内容包括：常见的视频基本概念、手机短视频拍摄设置与操作、视频制作的硬件和软件、视频构图技术、影调与色彩的魅力、认识镜头、场景与视频设计。",
+        "docTypeDesc": "中文图书",
+        "title": "一本书学会手机短视频拍摄",
+        "itemCount": 20,
+        "tags": [
+          "book"
+        ],
+        "circCount": 20,
+        "pub_year": "2022.10",
+        "classno": "J41",
+        "publisher": "人民邮电出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017124\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067792,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017125\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067793,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017126\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067794,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017127\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":1067795,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017128\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067796,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017129\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067797,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017130\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067798,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017131\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067799,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017132\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067800,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017133\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067801,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017134\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067802,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017135\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067803,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017136\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067804,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017137\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067805,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017138\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067806,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017139\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067807,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017140\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067808,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017141\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067809,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017142\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1067810,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"J41/359\",\"inDate\":1686309451000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"1017143\",\"tempLocation\":\"总馆 - 新书阅览室\",\"circStatus\":0,\"itemId\":1067811,\"vol\":\"\",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "354191",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m1f6ed4c81f71ca63d20a71a82fdfffbb",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "(英) 蒂姆·坎托弗著",
+        "callno": [
+          "B842.6/775"
+        ],
+        "docType": "doc.01",
+        "groupId": "a90863e94edb7aaad475a05603d4a191",
+        "isbn": "978-7-213-09693-8",
+        "bibNo": "0000531729",
+        "abstract": "本书凝结了蒂姆·坎托弗博士几十年的心理问题研究与疗愈经验。他介绍了应对不同类型焦虑和不同程度焦虑的自救策略 —— 从养成良好的生活小习惯到化解“有毒”的执念, 再到更为专业的严重焦虑的疗愈。本书能帮助人们摆正看待焦虑的态度, 了解行之有效的焦虑疗愈方法, 从而获得克服焦虑的勇气, 重拾回归平静生活的信心。",
+        "docTypeDesc": "中文图书",
+        "title": "焦虑自救手册:克服焦虑一点也不难",
+        "itemCount": 4,
+        "tags": [
+          "book"
+        ],
+        "circCount": 4,
+        "pub_year": "2022.3",
+        "classno": "B842.6",
+        "publisher": "浙江人民出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"B842.6/775\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987596\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1017313,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B842.6/775\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987597\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1017314,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B842.6/775\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987598\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1017315,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B842.6/775\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987599\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1017316,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "338525",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m07d09a957f93bb4f9faebceddcbbc7db",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "朱建军著",
+        "callno": [
+          "B825/570"
+        ],
+        "docType": "doc.01",
+        "groupId": "e4e227d2961ea5f07673cc73bf11a776",
+        "isbn": "978-7-5130-8028-6",
+        "bibNo": "0000531525",
+        "abstract": "本书从两个维度阐释人格的形成: 形成于个体生命早期的童年、幼年乃至胎儿期的“初体验”, 以及根植于历史、人文等人类共同体验和传承的“原型”。从集体潜意识和个体潜意识的角度, 梳理人格形成的过程, 阐释同地域、同种族乃至全人类共同具有的“原型”和个体早期经验感受对个性及人格发展的深远影响。",
+        "docTypeDesc": "中文图书",
+        "title": "人格:一生一剧本",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 4,
+        "pub_year": "2022.2",
+        "classno": "B825-49",
+        "publisher": "知识产权出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"B825/570\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987486\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1016526,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B825/570\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987487\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1016527,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B825/570\",\"dueDate\":\"2024-03-18\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987488\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":1,\"itemId\":1016525,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-18\"}, {\"classMethod\":\"clc\",\"callNo\":\"B825/570\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987489\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1016528,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"B825/570\",\"inDate\":1677427200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0987490\",\"tempLocation\":\"总馆 - 流通书库\",\"circStatus\":0,\"itemId\":1016529,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"流通书库\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "338321",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m6eb31b5324e6079ab7b4051735eafdf5",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "龚江南著",
+        "callno": [
+          "I267.1/5472"
+        ],
+        "docType": "doc.01",
+        "groupId": "8e11d33f3611f120a66d4994ed3c9fba",
+        "isbn": "978-7-5205-2841-2",
+        "bibNo": "0000525970",
+        "abstract": "一本自画像式的幽默小品集。达观的态度, 真挚的情感, 自嘲式的手法, 描画出一位小知识分子二十多年来的生活状况。日常生活中的衣食住行反映了生活的困窘、人生的尴尬, 而文字中洋溢着的乐观, 又带给人快乐与感动, 时时令人捧腹。",
+        "docTypeDesc": "中文图书",
+        "title": "像老人一样喝茶",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 5,
+        "pub_year": "2021.4",
+        "classno": "I267.1",
+        "publisher": "中国文史出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"I267.1/5472\",\"inDate\":1661875200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0899006\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":980932,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I267.1/5472\",\"inDate\":1661875200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0899007\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":980934,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I267.1/5472\",\"inDate\":1661875200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0899008\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":980936,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I267.1/5472\",\"inDate\":1661875200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0899009\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":980938,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"I267.1/5472\",\"inDate\":1661875200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0899010\",\"tempLocation\":\"总馆 - 自助书库\",\"circStatus\":0,\"itemId\":980930,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "327359",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "mcff13621d902f718198d0c175750652b",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "壹心理编著",
+        "callno": [
+          "C913.1/394"
+        ],
+        "docType": "doc.01",
+        "groupId": "f64ef5a8-d073-4827-a581-91e2d6160941",
+        "isbn": "978-7-111-35512-0",
+        "bibNo": "0000531363",
+        "abstract": "本书共分为五章: 饱受争议的原生家庭、如何才能做到亲密而独立、为人父母, 我们都是第一次、婆媳问题, 千古难题、互动进阶时间, 主要内容包括: 人真的会复制父母对孩子的教养方式吗 ; 世界上所有父母都最爱自己的孩子吗 ; 原生家庭是否已经被滥用了? 如何看待它的意义等。",
+        "docTypeDesc": "中文图书",
+        "title": "原生家庭是否决定人的一生",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 0,
+        "pub_year": "2022.1",
+        "classno": "C913.1",
+        "publisher": "机械工业出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"C913.1/394\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970192\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1015945,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C913.1/394\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970193\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1015946,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C913.1/394\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970194\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1015947,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C913.1/394\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970195\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1015948,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"C913.1/394\",\"dueDate\":\"2024-03-13\",\"inDate\":1667750400000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0970196\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1015949,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}]",
+        "_id": "338159",
+        "eholdings": "[]"
+      },
+      {
+        "bibId": "m036a09c3fb9d9e29a42c766670c8a75b",
+        "inBooklist": 0,
+        "thumb": "",
+        "holdingTypes": [
+          "print"
+        ],
+        "author": "(英) 格雷姆·加勒德(Graeme Garrard), (美) 詹姆斯·伯纳德·墨菲(James Bernard Murphy)著",
+        "callno": [
+          "D091/18"
+        ],
+        "docType": "doc.01",
+        "groupId": "0d0277237d1151ff3976f4dd614a22fc",
+        "isbn": "978-7-5194-6562-9",
+        "bibNo": "0000534393",
+        "abstract": "本书由英国卡迪夫大学教授格雷姆·加勒德和美国新罕布什尔州达特茅斯学院教授詹姆斯·墨菲合著。书中有28个简短的章节, 从亚洲、非洲、欧洲和美洲选出28位历史上最具智慧和影响力的政治思想家--中国的孔子、古希腊的苏格拉底、亚里士多德, 中世纪的法拉比、迈蒙尼德、阿奎那, 近现代的马基雅维利、霍布斯、洛克、卢梭、柏克、康德、黑格尔、马克思、托克维尔, 当代的甘地、阿伦特、哈耶克、罗尔斯等--的主要思想和观点。在书中每位思想家的生活和当时的时代背景, 以及他们对政治重要的、广为人知的洞见穿插讲述。这些思想和观点对政治和政府的产生和发展了有深远的正确的影响, 应该说对推动人类文明进步起的是积极作用。这些观点和思想至今仍是人类探索和研究道德、政治发展方向的重要思想来源。",
+        "docTypeDesc": "中文图书",
+        "title": "一种正确的可能:sages, scholars and statesmen whose ideas have shaped the world",
+        "itemCount": 5,
+        "tags": [
+          "book"
+        ],
+        "circCount": 3,
+        "pub_year": "2022.7",
+        "classno": "D091",
+        "publisher": "光明日报出版社",
+        "holdings": "[{\"classMethod\":\"clc\",\"callNo\":\"D091/18\",\"inDate\":1667491200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0967426\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1024884,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"D091/18\",\"inDate\":1667491200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0967427\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":0,\"itemId\":1024885,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}, {\"classMethod\":\"clc\",\"callNo\":\"D091/18\",\"dueDate\":\"2024-03-13\",\"inDate\":1667491200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0967428\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1024886,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"D091/18\",\"dueDate\":\"2024-03-13\",\"inDate\":1667491200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0967429\",\"tempLocation\":\"总馆 - 二楼公共区\",\"circStatus\":1,\"itemId\":1024888,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":0,\"location\":\"新书阅览室\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"借出 应还时间:2024-03-13\"}, {\"classMethod\":\"clc\",\"callNo\":\"D091/18\",\"inDate\":1667491200000,\"shelfMark\":null,\"itemsCount\":1,\"barCode\":\"0967430\",\"tempLocation\":\"总馆 - 德雅书房\",\"circStatus\":0,\"itemId\":1024887,\"vol\":\" \",\"library\":\"总馆\",\"itemStatus\":\"41\",\"itemsAvailable\":1,\"location\":\"德雅书房\",\"extenStatus\":0,\"donatorId\":null,\"status\":\"可借\"}]",
+        "_id": "340662",
+        "eholdings": "[]"
+      }
+    ],
+    "facetList": [
+      {
+        "code": "holdingTypes",
+        "name": "馆藏类型",
+        "facetFields": [
+          {
+            "code": "print",
+            "name": "纸本资源",
+            "count": 84728
+          },
+          {
+            "code": "peri",
+            "name": "现刊",
+            "count": 73
+          }
+        ]
+      },
+      {
+        "code": "libs",
+        "name": "分馆",
+        "facetFields": [
+          {
+            "code": "00000",
+            "name": "总馆",
+            "count": 84728
+          }
+        ]
+      },
+      {
+        "code": "locations",
+        "name": "馆藏地",
+        "facetFields": [
+          {
+            "code": "00001",
+            "name": "典藏书库（四）",
+            "count": 20235
+          },
+          {
+            "code": "00003",
+            "name": "新书阅览室",
+            "count": 13400
+          },
+          {
+            "code": "00006",
+            "name": "二楼公共区",
+            "count": 710
+          },
+          {
+            "code": "00007",
+            "name": "五楼公共区",
+            "count": 311
+          },
+          {
+            "code": "00008",
+            "name": "典藏书库（二）",
+            "count": 15194
+          },
+          {
+            "code": "00012",
+            "name": "典藏书库（三）",
+            "count": 16444
+          },
+          {
+            "code": "00013",
+            "name": "流通书库",
+            "count": 17982
+          }
+        ]
+      },
+      {
+        "code": "docType",
+        "name": "文献类型",
+        "facetFields": [
+          {
+            "code": "doc.01",
+            "name": "中文图书",
+            "count": 84589
+          },
+          {
+            "code": "doc.11",
+            "name": "中文期刊",
+            "count": 130
+          },
+          {
+            "code": "doc.12",
+            "name": "西文期刊",
+            "count": 9
+          }
+        ]
+      },
+      {
+        "code": "subjects",
+        "name": "主题",
+        "facetFields": [
+          {
+            "code": "研究",
+            "name": "研究",
+            "count": 8693
+          },
+          {
+            "code": "长篇小说",
+            "name": "长篇小说",
+            "count": 8279
+          },
+          {
+            "code": "Chang Pian Xiao Shuo",
+            "name": "Chang Pian Xiao Shuo",
+            "count": 7619
+          },
+          {
+            "code": "高等学校",
+            "name": "高等学校",
+            "count": 5916
+          },
+          {
+            "code": "程序设计",
+            "name": "程序设计",
+            "count": 5357
+          },
+          {
+            "code": "英语",
+            "name": "英语",
+            "count": 3739
+          },
+          {
+            "code": "散文集",
+            "name": "散文集",
+            "count": 3103
+          },
+          {
+            "code": "San Wen Ji",
+            "name": "San Wen Ji",
+            "count": 2908
+          },
+          {
+            "code": "Ying Yu",
+            "name": "Ying Yu",
+            "count": 2885
+          },
+          {
+            "code": "基本知识",
+            "name": "基本知识",
+            "count": 1734
+          }
+        ]
+      },
+      {
+        "code": "dcpFacet",
+        "name": "学科",
+        "facetFields": [
+          {
+            "code": "05",
+            "name": "文学",
+            "count": 26550
+          },
+          {
+            "code": "08",
+            "name": "工学",
+            "count": 25822
+          },
+          {
+            "code": "07",
+            "name": "理学",
+            "count": 20411
+          },
+          {
+            "code": "02",
+            "name": "经济学",
+            "count": 8326
+          },
+          {
+            "code": "12",
+            "name": "管理学",
+            "count": 6537
+          },
+          {
+            "code": "06",
+            "name": "历史学",
+            "count": 5749
+          },
+          {
+            "code": "01",
+            "name": "哲学",
+            "count": 3733
+          },
+          {
+            "code": "13",
+            "name": "艺术学",
+            "count": 3303
+          },
+          {
+            "code": "03",
+            "name": "法学",
+            "count": 3267
+          },
+          {
+            "code": "04",
+            "name": "教育学",
+            "count": 1738
+          }
+        ]
+      },
+      {
+        "code": "coreKpi",
+        "name": "收录类型",
+        "facetFields": []
+      },
+      {
+        "code": "language",
+        "name": "语种",
+        "facetFields": [
+          {
+            "code": "chi",
+            "name": "中文",
+            "count": 84091
+          },
+          {
+            "code": "eng",
+            "name": "英语",
+            "count": 564
+          },
+          {
+            "code": "jpn",
+            "name": "日语",
+            "count": 35
+          },
+          {
+            "code": "ger",
+            "name": "德语",
+            "count": 24
+          },
+          {
+            "code": "ara",
+            "name": "阿拉伯语",
+            "count": 3
+          },
+          {
+            "code": "spa",
+            "name": "西班牙语",
+            "count": 3
+          },
+          {
+            "code": "fre",
+            "name": "法语",
+            "count": 2
+          },
+          {
+            "code": "ach",
+            "name": "ach",
+            "count": 1
+          },
+          {
+            "code": "ch ",
+            "name": "ch ",
+            "count": 1
+          },
+          {
+            "code": "kor",
+            "name": "韩语",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "code": "packages",
+        "name": "数据库",
+        "facetFields": []
+      },
+      {
+        "code": "pubYearFacet",
+        "name": "出版年",
+        "facetFields": [
+          {
+            "code": "2023",
+            "name": "2023",
+            "count": 413
+          },
+          {
+            "code": "2022",
+            "name": "2022",
+            "count": 6095
+          },
+          {
+            "code": "2021",
+            "name": "2021",
+            "count": 10439
+          },
+          {
+            "code": "2020",
+            "name": "2020",
+            "count": 7152
+          },
+          {
+            "code": "2019",
+            "name": "2019",
+            "count": 10248
+          },
+          {
+            "code": "2018",
+            "name": "2018",
+            "count": 9442
+          },
+          {
+            "code": "2017",
+            "name": "2017",
+            "count": 6115
+          },
+          {
+            "code": "2016",
+            "name": "2016",
+            "count": 7140
+          },
+          {
+            "code": "2015",
+            "name": "2015",
+            "count": 5067
+          },
+          {
+            "code": "2014",
+            "name": "2014",
+            "count": 4405
+          }
+        ]
+      },
+      {
+        "code": "publisher",
+        "name": "出版社",
+        "facetFields": [
+          {
+            "code": "清华大学出版社",
+            "name": "清华大学出版社",
+            "count": 6723
+          },
+          {
+            "code": "人民邮电出版社",
+            "name": "人民邮电出版社",
+            "count": 5724
+          },
+          {
+            "code": "机械工业出版社",
+            "name": "机械工业出版社",
+            "count": 4991
+          },
+          {
+            "code": "电子工业出版社",
+            "name": "电子工业出版社",
+            "count": 4909
+          },
+          {
+            "code": "科学出版社",
+            "name": "科学出版社",
+            "count": 2084
+          },
+          {
+            "code": "化学工业出版社",
+            "name": "化学工业出版社",
+            "count": 1286
+          },
+          {
+            "code": "江苏凤凰文艺出版社",
+            "name": "江苏凤凰文艺出版社",
+            "count": 1176
+          },
+          {
+            "code": "北京联合出版公司",
+            "name": "北京联合出版公司",
+            "count": 1150
+          },
+          {
+            "code": "中国人民大学出版社",
+            "name": "中国人民大学出版社",
+            "count": 1098
+          },
+          {
+            "code": "北京理工大学出版社",
+            "name": "北京理工大学出版社",
+            "count": 1034
+          }
+        ]
+      }
+    ],
+    "extraInfo": null
+  }
+}
