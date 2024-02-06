@@ -1,5 +1,6 @@
 package com.xiangxiang.yuso.service.impl;
 
+import cn.hutool.core.bean.BeanUtil;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
@@ -225,7 +226,8 @@ public class PostServiceImpl extends ServiceImpl<PostMapper, Post> implements Po
 
     @Override
     public PostVO getPostVO(Post post, HttpServletRequest request) {
-        PostVO postVO = PostVO.objToVo(post);
+        PostVO postVO = new PostVO();
+        BeanUtil.copyProperties(post,postVO);
         long postId = post.getId();
         // 1. 关联查询用户信息
         Long userId = post.getUserId();
@@ -287,7 +289,8 @@ public class PostServiceImpl extends ServiceImpl<PostMapper, Post> implements Po
         }
         // 填充信息
         List<PostVO> postVOList = postList.stream().map(post -> {
-            PostVO postVO = PostVO.objToVo(post);
+            PostVO postVO = new PostVO();
+            BeanUtil.copyProperties(post,postVO);
             Long userId = post.getUserId();
             User user = null;
             if (userIdUserListMap.containsKey(userId)) {
