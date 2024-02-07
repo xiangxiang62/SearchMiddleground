@@ -39,7 +39,7 @@ const postList = ref([]);
 const userList = ref([]);
 const pictureList = ref([]);
 
-const loadData = (params: any) => {
+const loadDataOld = (params: any) => {
   const postQuery = {
     ...params,
     searchText: params.text,
@@ -62,6 +62,18 @@ const loadData = (params: any) => {
   };
   myAxios.post("picture/list/page/vo", pictureQuery).then((res: any) => {
     pictureList.value = res.records;
+  });
+};
+
+const loadData = (params: any) => {
+  const query = {
+    ...params,
+    searchText: params.text,
+  };
+  myAxios.post("search/all", query).then((res: any) => {
+    postList.value = res.postList;
+    userList.value = res.userList;
+    pictureList.value = res.pictureList;
   });
 };
 

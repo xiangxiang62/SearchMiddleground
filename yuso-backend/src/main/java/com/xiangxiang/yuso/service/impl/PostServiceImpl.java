@@ -305,6 +305,22 @@ public class PostServiceImpl extends ServiceImpl<PostMapper, Post> implements Po
         return postVOPage;
     }
 
+    /**
+     * 分页查询帖子
+     * @param postQueryRequest
+     * @param request
+     * @return
+     */
+    @Override
+    public Page<PostVO> listPostVOByPage(PostQueryRequest postQueryRequest, HttpServletRequest request) {
+        int current = postQueryRequest.getCurrent();
+        int pageSize = postQueryRequest.getPageSize();
+
+        Page<Post> postPage = this.page(new Page<>(current,pageSize),
+        this.getQueryWrapper(postQueryRequest));
+        return this.getPostVOPage(postPage,request);
+    }
+
 }
 
 
