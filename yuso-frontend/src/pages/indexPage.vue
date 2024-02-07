@@ -1,7 +1,7 @@
 <template>
   <div class="index-page">
     <a-input-search
-      v-model:value="searchParams.text"
+      v-model:value="searchText"
       placeholder="请输入搜索词"
       enter-button="搜索"
       size="large"
@@ -30,6 +30,7 @@ import PictureList from "@/components/PictureList.vue";
 import MyDivider from "@/components/MyDivider.vue";
 import { useRoute, useRouter } from "vue-router";
 import myAxios from "@/plugins/myAxios";
+import { message } from "ant-design-vue";
 
 const route = useRoute();
 const activeKey = route.params.category;
@@ -65,7 +66,7 @@ const loadDataOld = (params: any) => {
   });
 };
 
-const loadData = (params: any) => {
+const loadAllData = (params: any) => {
   const query = {
     ...params,
     searchText: params.text,
@@ -77,29 +78,59 @@ const loadData = (params: any) => {
   });
 };
 
+/**
+ * 加载单个接口
+ * @param params
+ */
+const loadData = (params: any) => {
+  const { type } = params;
+  if (!type) {
+    message.error("类别为空");
+    return;
+  }
+  const query = {
+    ...params,
+    searchText: params.text,
+  };
+  myAxios.post("search/all", query).then((res: any) => {
+    if (type === "post") {
+      postList.value = res.postList;
+    } else if (type === "user") {
+      userList.value = res.userList;
+    } else if (type === "picture") {
+      pictureList.value = res.pictureList;
+    }
+  });
+};
+
 const initSearchParams = {
+  type: activeKey,
   text: "",
   pageSize: 10,
   pageNum: 1,
 };
 
+const searchText = ref(route.query.text);
+
 const searchParams = ref(initSearchParams);
-// 首次请求
-loadData(initSearchParams);
 
 watchEffect(() => {
   searchParams.value = {
     ...initSearchParams,
     text: route.query.text,
+    type: route.params.category,
   } as any;
+  loadData(searchParams.value);
 });
 
 const onSearch = (value: string) => {
   // alert(value);
   router.push({
-    query: searchParams.value,
+    query: {
+      ...searchParams.value,
+      text: value,
+    },
   });
-  loadData(searchParams.value);
 };
 
 const onTabChange = (key: string) => {
