@@ -172,7 +172,6 @@ public class PostServiceImpl extends ServiceImpl<PostMapper, Post> implements Po
         // 按关键词检索
         if (StringUtils.isNotBlank(searchText)) {
             boolQueryBuilder.should(QueryBuilders.matchQuery("title", searchText));
-            boolQueryBuilder.should(QueryBuilders.matchQuery("description", searchText));
             boolQueryBuilder.should(QueryBuilders.matchQuery("content", searchText));
             boolQueryBuilder.minimumShouldMatch(1);
         }
@@ -313,8 +312,8 @@ public class PostServiceImpl extends ServiceImpl<PostMapper, Post> implements Po
      */
     @Override
     public Page<PostVO> listPostVOByPage(PostQueryRequest postQueryRequest, HttpServletRequest request) {
-        int current = postQueryRequest.getCurrent();
-        int pageSize = postQueryRequest.getPageSize();
+        long current = postQueryRequest.getCurrent();
+        long pageSize = postQueryRequest.getPageSize();
 
         Page<Post> postPage = this.page(new Page<>(current,pageSize),
         this.getQueryWrapper(postQueryRequest));

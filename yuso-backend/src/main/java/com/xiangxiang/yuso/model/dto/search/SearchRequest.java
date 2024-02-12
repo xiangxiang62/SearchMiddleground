@@ -1,11 +1,12 @@
 package com.xiangxiang.yuso.model.dto.search;
 
+import com.xiangxiang.yuso.common.PageRequest;
 import lombok.Data;
 
 import java.io.Serializable;
 
 @Data
-public class SearchRequest implements Serializable {
+public class SearchRequest extends PageRequest implements Serializable {
     /**
      * 搜索词
      */

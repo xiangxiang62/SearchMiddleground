@@ -39,6 +39,7 @@ const router = useRouter();
 const postList = ref([]);
 const userList = ref([]);
 const pictureList = ref([]);
+const dataList = ref([]);
 
 const loadDataOld = (params: any) => {
   const postQuery = {
@@ -94,12 +95,13 @@ const loadData = (params: any) => {
   };
   myAxios.post("search/all", query).then((res: any) => {
     if (type === "post") {
-      postList.value = res.postList;
+      postList.value = res.dataList;
     } else if (type === "user") {
-      userList.value = res.userList;
+      userList.value = res.dataList;
     } else if (type === "picture") {
-      pictureList.value = res.pictureList;
+      pictureList.value = res.dataList;
     }
+    console.log(res);
   });
 };
 
